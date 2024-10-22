@@ -16,7 +16,7 @@ const About = () => {
               className={`${beba.className} antialiased text-2xl md:text-4xl lg:text-5xl tracking-wide md:hidden`}
             >
               Pourquoi choisir{" "}
-              <span className="text-u-yellow">UKOO SOLUTIONS ?</span>
+              <span className="text-u-yellow">ETS KM ?</span>
             </h1>
             <div className="flex flex-col gap-4 md:flex-row-reverse lg:gap-12 md:items-center group">
               <div className="w-full md:basis-1/2">
@@ -38,20 +38,17 @@ const About = () => {
                 className={`${beba.className} antialiased text-2xl md:text-4xl lg:text-5xl tracking-wide hidden md:block mb-4`}
               >
                 Pourquoi choisir <br />
-                <span className="text-u-yellow ml-12">UKOO SOLUTIONS ?</span>
+                <span className="text-u-yellow ml-12">EST KM ?</span>
               </h1>
               <p>
-                Choisir UKOO SOLUTIONS, c&apos;est allier expérience et
+                Choisir EST KM, c&apos;est allier expérience et
                 innovation.
               </p>
               <p className="text-gray-500 mt-2 max-w-[467px] xl:max-w-[600px]">
-                Nous sommes déterminés à révolutionner la logistique et la
-                gestion de la chaîne d’approvisionnement en République
-                démocratique du Congo. Grâce à notre expertise et à notre gamme
-                complète de services, nous assurons des opérations d’importation
-                et d’exportation sans faille, optimisons les chaînes
-                d’approvisionnement et améliorons l’efficacité globale de
-                l’entreprise.
+              Avec plus de vingt ans d’expérience dans le transport
+              lacustre et d’autres domaines, ETS KM a développé une
+              expertise approfondie et une réputation de fiabilité et de
+              qualité.
               </p>
             </div>
             <div className="overflow-hidden rounded-xl md:basis-1/2">

@@ -34,8 +34,8 @@ export const services = [
     img: sellImg,
   },
   {
-    name: "Assistance Visa en RDC",
-    text: "Service professionnel et fiable d’assistance pour tous les types de visas à destination de la République démocratique du Congo, garantissant des préparatifs de voyage en douceur et sans tracas.",
+    name: "Commerce Général",
+    text: "Engagé dans la vente d’une large gamme de produits, répondant aux divers besoins du marché.",
     img: passportImg,
   },
 ];

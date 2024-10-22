@@ -13,10 +13,10 @@ const Location = () => {
             <h1
               className={`${beba.className} antialiased text-2xl md:text-4xl lg:text-5xl tracking-wide`}
             >
-              <span className="text-u-yellow">Où trouver</span> UKOO SOLUTIONS ?
+              <span className="text-u-yellow">Où trouver</span> EST KM ?
             </h1>
             <p className="text-[#F5F3F5] mt-2 max-w-[467px] xl:max-w-[600px]">
-              UKOO SOLUTIONS est une entreprise oeuvrant en République
+              EST KM est une entreprise oeuvrant en République
               démocratique du Congo et ayant des emplacements physiques dans les
               villes de Kinshasa, de Goma et de Lubumbashi.
             </p>
@@ -29,8 +29,11 @@ const Location = () => {
             <p className="text-u-yellow/50 mt-2 max-w-[467px]">
               <span className="text-gray-400">
                 Retrouvez nous à Kinshasa à l&apos;adresse :{" "}
-              </span>{" "}
-              45 bis Avenue De L’ecole, C/Ngaliema, Kinshasa, RDC
+              </span>{" "}<br />
+              Avenue du Congo N&deg; 28/5<br />
+              Quartier Kimanga<br />
+              Commune Kalundu, Uvira, Sud-Kivu<br />
+              R&eacute;publique D&eacute;mocratique du Congo
             </p>
           </section>
 

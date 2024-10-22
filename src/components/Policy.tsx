@@ -16,9 +16,10 @@ const Policy = () => {
                   Notre vision
                 </h1>
                 <p className="text-sm">
-                  Notre vision est de devenir le premier fournisseur de
-                  solutions logistiques innovantes et sur mesure, non seulement
-                  en République démocratique du Congo mais aussi au delà.
+                Devenir l’entreprise leader dans le transport lacustre 
+                et la logistique sur le Lac Tanganyika, reconnue pour 
+                sa fiabilité, la qualité de ses services et son engagement 
+                envers l’excellence.
                 </p>
               </div>
             </div>
@@ -37,9 +38,10 @@ const Policy = () => {
                   Notre mission
                 </h1>
                 <p className="text-sm">
-                  Notre mission est d&apos;optimiser les opérations de nos
-                  clients grâce à des solutions logistique intégrées et à un
-                  service exceptionnel.
+                Fournir des services exceptionnels de transport, 
+                de logistique et de construction, en assurant la 
+                satisfaction des clients et en contribuant à la 
+                croissance économique régionale.
                 </p>
               </div>
             </div>

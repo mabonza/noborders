@@ -15,7 +15,7 @@ import ceoImage from "/public/ceo.jpeg";
 import formImg from "/public/form.jpg";
 
 export const metadata: Metadata = {
-  title: "UKOO Solutions - Bienvenue sur notre site",
+  title: "EST KM - Bienvenue sur notre site",
 };
 
 export default function Home() {
@@ -69,25 +69,16 @@ export default function Home() {
             </h1>
             <div className="lg:flex gap-16">
               <p className="max-w-[35rem]">
-                UKOO Solutions est dirigée par une équipe passionnée et
-                expérimentée qui guide notre entreprise vers l’excellence. Notre
-                équipe diversifiée et talentueuse, composée de professionnels de
-                la chaîne d’approvisionnement, de spécialistes des achats et de
-                la technologie, de chefs de projet et d’un service clientèle
-                dévoué, constitue notre plus grand atout. Chaque membre est
-                sélectionné pour son expertise et son engagement envers notre
-                vision : être la solution.
+              Nous offrons une gamme complète de services allant du
+              transport et de la logistique au commerce général et à la
+              construction, répondant ainsi à tous vos besoins en un seul
+              endroit.
               </p>
               <p className="text-gray-400 mt-4 max-w-[35rem] lg:mt-0">
-                UKOO Solutions s’appuie également sur un vaste réseau de
-                partenaires stratégiques, ce qui renforce notre capacité à
-                fournir des solutions complètes et intégrées à nos clients. Ces
-                partenariats nous permettent d’accéder à des ressources
-                supplémentaires, d’étendre notre portée géographique et de
-                rester à la pointe des dernières tendances du secteur. En
-                collaborant avec les leaders du secteur, nous garantissons à nos
-                clients des services de qualité supérieure et une valeur ajoutée
-                inégalée.
+              Notre priorité est la satisfaction du client. Nous nous
+              efforçons de fournir des services de la plus haute qualité et
+              d’améliorer continuellement nos processus pour dépasser
+              vos attentes.
               </p>
             </div>
           </div>
@@ -121,14 +112,14 @@ export default function Home() {
                 href="mailto:info@ukoo-inv.com"
                 className="font-semibold text-u-yellow/50"
               >
-                info@ukoo-inv.com
+                info-etskm@etskm-rdc.com
               </a>{" "}
               ou par téléphone au{" "}
               <a
                 href="tel:+243830088800"
                 className="font-semibold text-u-yellow/50 whitespace-nowrap"
               >
-                +243 830 088 800
+                +243 992 030 390 | +27 761 100 619
               </a>
               .
             </p>
@@ -145,11 +136,12 @@ export default function Home() {
               <p
                 className={`${carlito.className} text-center max-w-[50rem] mx-auto font-bold text-xl md:text-2xl`}
               >
-                Nous améliorons la logistique et la gestion de la chaîne
-                d’approvisionnement en RDC. Grâce à notre expertise, nous
-                optimisons les opérations d’import-export et boostons
-                l’efficacité des entreprises. Faites-nous confiance pour vos
-                besoins logistiques en RDC.
+                Kidoge Majagira est le PDG d'EST KM,
+                dont il dirige la filiale spécialisée dans la logistique et la gestion de la
+                chaîne d'approvisionnement. Avec plus de 34 ans d'expérience dans la
+                logistique des transports et le dédouanement, Kidoge Majagira
+                possède une riche expérience dans la gestion de projets du secteur
+                minier et de développements d'infrastructures à grande échelle.
               </p>
               <Quote className="text-u-yellow w-10 h-10 absolute -left-4 -bottom-8 transform rotate-180" />
             </div>
@@ -161,9 +153,9 @@ export default function Home() {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <span>Christan KATUMBA</span>
+              <span>KIDOGE MAJIRA</span>
               <span className="text-xs text-gray-400 font-semibold">
-                Directeur général de UKOO INVESTMENT
+                Directeur Général de ETS KM
               </span>
             </div>
           </div>

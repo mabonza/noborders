@@ -21,45 +21,45 @@ import serv14 from "../../public/services/serv14.webp";
 
 const supplyChainServices = [
   {
-    name: "Optimisation de la gestion des stocks",
+    name: "Transport Lacustre",
     description:
-      "Nous fournissons des services complets de conseil, d’audit et de suivi pour les opérations de dédouanement à l’importation et à l’exportation en République démocratique du Congo. De l’acquisition de la licence au dédouanement, notre soutien garantit le respect des procédures et des lois, réduisant ainsi les risques de nonconformité pour nos clients.",
+      "ETS KM possède une expertise significative dans le transport lacustre, offrant des services fiables et efficaces sur le Lac Tanganyika.",
     img: serv1,
   },
   {
-    name: "Évaluation des performances des fournisseurs",
+    name: "Logistique",
     description:
-      "Évaluation des performances des fournisseurs et mise en œuvre de stratégies de gestion pour améliorer la qualité, réduire les coûts et atténuer les risques.",
+      "Services logistiques complets assurant la gestion et le transport fluides des marchandises.",
     img: serv2,
   },
   {
-    name: "Optimisation du réseau de transport",
+    name: "Commerce Général",
     description:
-      "Réduire les coûts, améliorer les délais de livraison et réduire l’empreinte carbone grâce à des réseaux de transport optimisés.",
+      "Engagé dans la vente d’une large gamme de produits, répondant aux divers besoins du marché.",
     img: serv3,
   },
   {
-    name: "Consultation en matière de solutions technologiques",
+    name: "Import-Export",
     description:
-      "Consultation et mise en œuvre de solutions technologiques telles que les systèmes de gestion des stocks, les logiciels ERP et les outils de suivi des expéditions en temps réel.",
+      "Facilitation du mouvement des marchandises à travers les frontières, en assurant la conformité avec les réglementations du commerce international.",
     img: serv4,
   },
   {
-    name: "Atténuation des risques et conformité",
+    name: "Construction",
     description:
-      "Nous sommes des experts en gestion douanière pour l’import/export. Notre équipe gère les risques, garantissant des transactions fluides et conformes. De la documentation aux tarifs, nous simplifions le processus pour nos clients, les laissant se concentrer sur leurs objectifs commerciaux.",
+      "Fourniture de services de construction, y compris le développement de bâtiments et d’infrastructures.",
     img: serv5,
   },
   {
-    name: "Formation",
+    name: "Vente de Matériaux de Construction",
     description:
-      "Explorez nos modules de formation en supply chain ! Cours interactifs, formateurs expérimentés, sujets variés. Nos modules incluent : Dédouanement en RDC (Import/Export), logistique, gestion des stocks, planification de la demande, fournisseurs et achats, optimisation des opérations, et technologies de la supply chain (comme la blockchain et l’IA). Vous serez prêt à exceller dans ce domaine crucial.",
+      "Priorisation de la vente de matériaux de construction essentiels tels que le ciment, le fer à béton et le carburant.",
     img: serv6,
   },
   {
     name: "Dédouanement, import/export",
     description:
-      "Facilitez vos échanges internationaux avec nos services de dédouanement et d’import/export. Notre expertise vous permettra de naviguer en toute confiance dans les formalités douanières.",
+      "L'axe Lubumbashi-Kalemie souffre du manque d'infrastructures, tant par route que par rail. Le trajet de Lubumbashi a Kalemie etait devenu un vrai cauchemar qui pouvait prendre jusqu'à 6 semaines, de quoi décourager les transporteurs les plus courageux ! Cette situation a entraîné une pénurie significative de nos boissons à Kalemie.",
     img: serv7,
   },
 ];
@@ -71,9 +71,9 @@ const fournitures = [
 ];
 
 const assistance = [
-  { name: "eVisa", img: serv12 },
-  { name: "Carte de travail", img: serv13 },
-  { name: "Visa long séjour", img: serv14 },
+  { name: "Dangote Sement & Hashi Energy", img: serv12 },
+  { name: "Bralima & PAM", img: serv13 },
+  { name: "MONUSCO & Kotecha Group", img: serv14 },
 ];
 
 const Servvices = () => {
@@ -88,12 +88,14 @@ const Servvices = () => {
               Expertise en logistique et chaine d&apos;approvisionnement
             </h1>
             <p className="mt-2 text-gray-200 mx-auto md:text-center max-w-[60rem]">
-              Nous fournissons des services complets de conseil, d’audit et de
-              suivi pour les opérations de dédouanement à l’importation et à
-              l’exportation en République démocratique du Congo. De
-              l’acquisition de la licence au dédouanement, notre soutien
-              garantit le respect des procédures et des lois, réduisant ainsi
-              les risques de nonconformité pour nos clients.
+            La Brasimba, consciente de l'importance de répondre aux besoins de
+            ses consommateurs, a été confrontée à un défi majeur : trouver un
+            nouvel axe pour approvisionner Kalemie.
+            Une expédition "test" à travers la Zambie et le Lac Tanganyika a
+            permis de livrer d'un coup 10.000 casiers au port de Kalemie, sous les
+            acclamations des tenanciers et clients.
+            Découvrez le reportage de cette expédition incroyable sur nos pages
+            BRASIMBA.
             </p>
 
             <div className="mt-8 flex flex-col gap-8 lg:gap-4">
@@ -189,12 +191,13 @@ const Servvices = () => {
             <h1
               className={`${beba.className} antialiased text-2xl md:text-4xl lg:text-5xl tracking-wide mb-4 flex flex-col gap-2 md:items-center justify-center`}
             >
-              Assistance Visa en RDC
+              Partenariats et Collaborations:            
             </h1>
             <p className="mt-2 text-gray-200 mx-auto md:text-center max-w-[60rem]">
-              Service professionnel et fiable d’assistance pour tous les types
-              de visas à destination de la République démocratique du Congo,
-              garantissant des préparatifs de voyage en douceur et sans tracas.
+            Nous
+            transportons pour des sociétés reconnues dans le Sud-Kivu telles que
+            Datco et Kotecha. Nous travaillons également avec des partenaires au
+            Burundi, en Tanzanie et en Zambie.
             </p>
 
             <div className="mt-8 grid sm:grid-cols-2 md:grid-cols-3 gap-2">

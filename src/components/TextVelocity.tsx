@@ -77,16 +77,16 @@ function ParallaxText({
 export default function TextVelocity() {
   return (
     <section className="bg-night py-8 ">
-      <ParallaxText baseVelocity={1}>No Borders Group</ParallaxText>
-      {/* <ParallaxText baseVelocity={-1}>Votre Agence de voyage fiable</ParallaxText> */}
+      <ParallaxText baseVelocity={1}>Établissement Kidoge Majagira</ParallaxText>
+      <ParallaxText baseVelocity={-1}>Votre grand partenaire en Logistique</ParallaxText>
       
       {/* Services Section */}
-      <ParallaxText baseVelocity={2}>Flight Bookings</ParallaxText>
+      {/* <ParallaxText baseVelocity={2}>Flight Bookings</ParallaxText>
       <ParallaxText baseVelocity={-2}>Hotel Reservations</ParallaxText>
       <ParallaxText baseVelocity={1.5}>Tour Packages</ParallaxText>
       <ParallaxText baseVelocity={-1.5}>Visa Assistance</ParallaxText>
       <ParallaxText baseVelocity={2}>Car Rentals</ParallaxText>
-      <ParallaxText baseVelocity={-2}>Travel Insurance</ParallaxText>
+      <ParallaxText baseVelocity={-2}>Travel Insurance</ParallaxText> */}
     </section>
   );
 }

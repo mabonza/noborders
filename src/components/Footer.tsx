@@ -18,10 +18,10 @@ const Footer = () => {
                   <ul>
                     <li>
                       <a
-                        href="mailto:info@ukoo-inv.com"
+                        href="mailto:info-etskm@etskm-rdc.com"
                         className="text-sm text-gray-300 hover:text-gray-500"
                       >
-                        info@ukoo-inv.com
+                        info-etskm@etskm-rdc.com
                       </a>
                     </li>
                     <li>
@@ -29,7 +29,7 @@ const Footer = () => {
                         href="tel:+243830088800"
                         className="text-sm text-gray-300 hover:text-gray-500"
                       >
-                        +243 830 088 800
+                        +27 761 100 619
                       </a>
                     </li>
                     <li>
@@ -37,7 +37,7 @@ const Footer = () => {
                         href="tel:+243847765555"
                         className="text-sm text-gray-300 hover:text-gray-500"
                       >
-                        +243 847 765 555
+                        +243 992 030 390
                       </a>
                     </li>
                   </ul>
@@ -75,8 +75,8 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-sm text-gray-500">
-              Copyright {new Date().getFullYear()} Noborders Group. Tous droits
-              réservés.
+              Copyright {new Date().getFullYear()} Etablissement KIDOGE MAJAGIRA.<br /> Tous droits
+              réservés. <br /> CCM: CD/UVIRA/RCCM/14-A-035/662 | (Alien NRC 376) <br />Form Juridique: Entreprise Individuel <br />N&deg; d&rsquo;import-export : PP/SK 004-08/1755/UV
             </p>
           </div>
         </div>

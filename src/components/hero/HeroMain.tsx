@@ -19,8 +19,7 @@ const Main = () => {
             </h1>
             <div className="mt-4 md:max-w-[25rem] lg:-mb-32">
               <p>
-                UKOO SOLUTIONS est une filiale de la société UKOO INVESTMENT
-                SARL, spécialisée dans la logistique et la chaîne
+                EST KM spécialisée dans la logistique et la chaîne
                 d&apos;approvisionnement. Elle propose une gamme variée de
                 services d&apos;accompagnement sur l&apos;ensemble de la chaîne
                 logistique globale et fournit aux entreprises de divers secteurs

@@ -10,7 +10,7 @@ const HeroImageSlider = () => {
         <div className="h-[40rem] w-full bg-gradient-to-t from-night" />
         <div className="text-white bg-night p-8">
           <p className="text-lg max-w-[20rem]">
-            Choisir <span className="font-bold">UKOO SOLUTIONS</span>,
+            Choisir <span className="font-bold">KIDOGE MAJAGIRA</span>,
             c&apos;est allier expérience et innovation.
           </p>
           <div className="bg-white rounded-full p-[.10rem] mt-4 w-max flex">
@@ -23,7 +23,7 @@ const HeroImageSlider = () => {
             </div>
             <div className="flex flex-col justify-end pr-8 pl-2">
               <span className="text-gray-500 text-sm">Responsable</span>
-              <span className="text-black -mt-1 mb-1.5">CHRISTIAN D</span>
+              <span className="text-black -mt-1 mb-1.5">Kidoge M.</span>
             </div>
           </div>
         </div>

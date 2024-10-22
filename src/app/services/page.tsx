@@ -32,11 +32,7 @@ export default function Home() {
               <p
                 className={`${carlito.className} text-center max-w-[50rem] mx-auto font-bold text-xl md:text-2xl`}
               >
-                Nous améliorons la logistique et la gestion de la chaîne
-                d’approvisionnement en RDC. Grâce à notre expertise, nous
-                optimisons les opérations d’import-export et boostons
-                l’efficacité des entreprises. Faites-nous confiance pour vos
-                besoins logistiques en RDC.
+                Grâce à notre longue histoire et notre présence établie dans la région, nous avons construit un réseau solide de partenaires et de clients, ce qui nous permet de fournir des services efficaces et de répondre rapidement aux besoins du marché.
               </p>
               <Quote className="text-u-yellow w-10 h-10 absolute -left-4 -bottom-8 transform rotate-180" />
             </div>
@@ -48,9 +44,9 @@ export default function Home() {
                   className="w-full h-full object-cover"
                 />
               </div>
-              <span>Christan KATUMBA</span>
+              <span>Kidoge Majagira</span>
               <span className="text-xs text-gray-400 font-semibold">
-                Directeur général de UKOO INVESTMENT
+                  PDG d'EST KM
               </span>
             </div>
           </div>

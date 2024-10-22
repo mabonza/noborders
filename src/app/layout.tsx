@@ -3,14 +3,14 @@ import "./globals.css";
 import { inter } from "@/constants/fonts";
 
 export const metadata: Metadata = {
-  title: "UKOO Solutions",
+  title: "ETS KIDOGE MAJAGIRA",
   description:
-    "UKOO SOLUTIONS est une filiale de la société UKOO INVESTMENT SARL, spécialisée dans la logistique et la chaîne d'approvisionnement. Elle propose une gamme variée de services d'accompagnement sur l'ensemble de la chaîne logistique globale et fournit aux entreprises de divers secteurs des produits consommables de haute qualité.",
+    "ETS KM, spécialisée dans la logistique et la chaîne d'approvisionnement. Elle propose une gamme variée de services d'accompagnement sur l'ensemble de la chaîne logistique globale et fournit aux entreprises de divers secteurs des produits consommables de haute qualité.",
   creator: "Iceberg-investment",
   authors: [
     {
-      name: "Théo Balick",
-      url: "https://github.com/balick",
+      name: "Mabnet",
+      url: "https://github.com/mabonza",
     },
   ],
 };
